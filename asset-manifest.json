@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jcfdl/react-task-tracker/static/css/main.31cd00b7.css",
-    "main.js": "/jcfdl/react-task-tracker/static/js/main.e077c2f5.js",
-    "static/js/787.226f4826.chunk.js": "/jcfdl/react-task-tracker/static/js/787.226f4826.chunk.js",
-    "index.html": "/jcfdl/react-task-tracker/index.html",
-    "main.31cd00b7.css.map": "/jcfdl/react-task-tracker/static/css/main.31cd00b7.css.map",
-    "main.e077c2f5.js.map": "/jcfdl/react-task-tracker/static/js/main.e077c2f5.js.map",
-    "787.226f4826.chunk.js.map": "/jcfdl/react-task-tracker/static/js/787.226f4826.chunk.js.map"
+    "main.css": "/react-task-tracker/static/css/main.31cd00b7.css",
+    "main.js": "/react-task-tracker/static/js/main.c2575710.js",
+    "static/js/787.226f4826.chunk.js": "/react-task-tracker/static/js/787.226f4826.chunk.js",
+    "index.html": "/react-task-tracker/index.html",
+    "main.31cd00b7.css.map": "/react-task-tracker/static/css/main.31cd00b7.css.map",
+    "main.c2575710.js.map": "/react-task-tracker/static/js/main.c2575710.js.map",
+    "787.226f4826.chunk.js.map": "/react-task-tracker/static/js/787.226f4826.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31cd00b7.css",
-    "static/js/main.e077c2f5.js"
+    "static/js/main.c2575710.js"
   ]
 }
